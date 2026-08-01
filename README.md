@@ -48,5 +48,3 @@ This project is a static front-end design created using HTML5 and CSS3. No real 
 ## Live Demo
 
 [View Live Website](https://manish1719.github.io/my-apple-html-css-project/)
-
-Manish
